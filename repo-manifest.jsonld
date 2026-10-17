@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdep/commit/f073f7ffddf7ca0c9f7971e42ba8aa52a4fa21a7",
       "git:hexsha": "f073f7ffddf7ca0c9f7971e42ba8aa52a4fa21a7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.27.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.27.0",
+      "repolex:parsedAt": "2026-10-17T22:55:01.588287+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdep/commit/41d71f63a166ce3ec8c61f1a5a49afcb2965d512",
